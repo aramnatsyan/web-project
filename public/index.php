@@ -1,5 +1,5 @@
 <?php
-echo '<pre>'; var_dump('test'); die;
+
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
